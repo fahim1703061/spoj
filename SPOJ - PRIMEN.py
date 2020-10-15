@@ -1,4 +1,5 @@
 #siv #primearry
+#This code may get TLE
 import array
 prime = array.array('i',[1] * 1000000 )
 #print(prime[8])
